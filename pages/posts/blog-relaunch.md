@@ -8,7 +8,7 @@ author: Micah Crenwelge
 
 # Relaunching my blog. Again. 
 
-![Nextjs](/public/images/nextjs.png)
+![Nextjs](/images/nextjs.png)
 
 I am relaunching my personal website using Nextjs on Vercel. This is my fourth iteration on my personal website, the first two attempts were wordpress based sites, and the last one used Ghost CMS. Every time I start to make traction with my SEO some major life event causes me to put my personal website, which is invariably self hosted for no good reason, on the back burner. 
 
@@ -21,7 +21,7 @@ Honestly it's fun, and almost adictive for me to start things over completely, b
 
 ## Deploying my project from a git repository
 
-![Github integration](/public/images/github-integration.png)
+![Github integration](/images/github-integration.png)
 
 The reason for using git repository, is that I want to continue to practice and learn git versioning. I also want to continue to grow the body of evidence of my commitment to growth both to myself and to others by having my commit history tracked on github. As a side benefit, maybe someday I can cause some graph envy.
 
@@ -35,7 +35,7 @@ As much as I love the convenience and minimalism of the Ghost CMS, which also ut
 
 ## Implementing the easiest solution
 
-![Vercel Personal Pricing](/public/images/vercel-pricing.png)
+![Vercel Personal Pricing](/images/vercel-pricing.png)
 
 I accidently deployed my site on Vercel for free. By accidentilly, I mean they make it so easy to get started that I was clicking deploy before I even thought about what I was doing. I typically try to setup my own VPS or some other unecessarily complicated solution, but I guess I am commited now. All there is left to do is develop the site. 
 
@@ -43,7 +43,7 @@ Vercel allows you to deploy a single personal project for free, which is a huge 
 
 Then I connected my own personal domain name. It was easy as hell, and I am loving the experience so far. This took away a lot of decision fatigue from having to choose hosts, and what stack I would use, gatsby, nextjs, react, tailwindscss, etc. I just chose a template and I'm done. Whatever stack I get, I will figure out how to use. Which turns out to be somekind of nextjs template? I will figure out the implementation details as they become relevant.
 
-![Vercel Personal Pricing](/public/images/domain-connectivity.png)
+![Vercel Personal Pricing](/images/domain-connectivity.png)
 
 ## Future vision 
 
