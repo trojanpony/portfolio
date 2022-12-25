@@ -6,8 +6,6 @@ tag: web development
 author: Micah Crenwelge 
 ---
 
-# Relaunching my blog. Again. 
-
 ![Nextjs](/images/nextjs.png)
 
 I am relaunching my personal website using Nextjs on Vercel. This is my fourth iteration on my personal website, the first two attempts were wordpress based sites, and the last one used Ghost CMS. Every time I start to make traction with my SEO some major life event causes me to put my personal website, which is invariably self hosted for no good reason, on the back burner. 

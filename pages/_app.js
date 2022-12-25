@@ -1,5 +1,6 @@
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
+import Navigation from '../components/navigation'
 
 import '../styles/main.css'
 
@@ -21,6 +22,9 @@ export default function Nextra({ Component, pageProps }) {
           crossOrigin="anonymous"
         />
       </Head>
+
+      <Navigation />
+
       <Component {...pageProps} />
     </>
   )
