@@ -1,11 +1,6 @@
 const YEAR = new Date().getFullYear()
 
 export default {
-  project: {
-    link: 'https://github.com'
-  },
-  lgoo: <strong>project</strong>,
-   
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Micah Crenwelge.
@@ -23,11 +18,7 @@ export default {
       `}</style>
     </small>
   ),
-  navs: [
-    {
-      url: 'https://github.com/shuding/nextra',
-      name: 'Nextra'
-    }
-  ], 
-  staticImages: true
+  postFooter: null,
+  darkMode: true,
+  readMore: 'Read More →',
 }
