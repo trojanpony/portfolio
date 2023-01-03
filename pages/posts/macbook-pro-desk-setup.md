@@ -26,4 +26,4 @@ This is the bekant standing desk from ikea. The worktop is a 4' section of butch
 
 ## My keyboard and mouse
 
-When it comes to periphrials I am a logitech fan boy. I have head many different logitech keyboards and mice over the years, and I have always been happy with them. They are not always the cheapest, but the quality is always worth the price. For my keyboard I am using the Logitech g915 lightspeed tkl, and for my mouse I am using the logitech g604. Both work perfectly for what I need, and I have no complaints here. 
+When it comes to periphrials I am a logitech fan boy. I have head many different logitech keyboards and mice over the years, and I have always been happy with them. They are not always the cheapest, but the quality is always worth the price. For my keyboard I am using the Logitech g915 lightspeed tkl, and for my mouse I am using the logitech g604. Both work perfectly for what I need, and I have no complaints here.
