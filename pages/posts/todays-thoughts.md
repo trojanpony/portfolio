@@ -2,7 +2,7 @@
 title: Cutting out coffee
 date: 2023/06/26
 description: Cutting out coffee to improve my health
-tag: web development
+tag: health 
 author: Micah Crenwelge 
 ---
 
