@@ -1,5 +1,5 @@
 ---
-title: Using ChatGPT to research the relationship between blood ph and cancer 
+title: Using ChatGPT to researcch the relationship between blood ph and cancer 
 date: 2023/07/08
 description: ChatGPT is a great tool to help get a basic understanding of a topic before doing more in depth research armed with a high level overview of the topic 
 tag: Research 
