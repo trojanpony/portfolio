@@ -1,0 +1,57 @@
+1689542454374	geckodriver	INFO	Listening on 127.0.0.1:59700
+1689542454870	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9g/2k9z3_417jz36_mv4yr2s5qm0000gn/T/rust_mozprofile0TZiTz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689542455445	Marionette	INFO	Marionette enabled
+1689542455513	Marionette	INFO	Listening on port 59709
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59701
+Read port: 59709
+1689542455715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59701/devtools/browser/3e09bab9-39e6-4d40-bec1-c3d5029e5d8c
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+1689542459357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://employees.www.uprr.com."
+JavaScript error: https://employees.www.uprr.com/ssi/e/scripts/jquery-3.5.0.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript error: https://employees.www.uprr.com/cqf/secure/portal_parent.html, line 5: ReferenceError: $ is not defined
+1689542464772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript error: https://employees.www.uprr.com/uit/ricola/2.5.19/ricola.js, line 295: TypeError: b.toolbar is undefined
+1689542468811	geckodriver	INFO	Listening on 127.0.0.1:59861
+1689542469316	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9g/2k9z3_417jz36_mv4yr2s5qm0000gn/T/rust_mozprofileOO6vaJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689542469601	Marionette	INFO	Marionette enabled
+1689542469751	Marionette	INFO	Listening on port 59871
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59862
+Read port: 59871
+1689542469914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59862/devtools/browser/d9d1a66c-ab00-4043-93ce-fd2a9ce6ae6e
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+1689542473021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://loginext.www.uprr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://employees.www.uprr.com."
+JavaScript error: https://employees.www.uprr.com/ssi/e/scripts/jquery-3.5.0.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://employees.www.uprr.com/fei/fuel/secure/assets/up-elements/up_elements/p-4224b012.system.js, line 1: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript error: https://employees.www.uprr.com/cqf/secure/portal_parent.html, line 5: ReferenceError: $ is not defined
+1689542480820	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cms.www.uprr.com."
+JavaScript warning: https://cms.www.uprr.com/cms/ricola/js/apps/internal_header.js, line 142: unreachable code after return statement
+JavaScript error: https://employees.www.uprr.com/uit/ricola/2.5.19/ricola.js, line 295: TypeError: b.toolbar is undefined
+1689542483776	Marionette	INFO	Stopped listening on port 59871
+JavaScript error: resource://gre/actors/BrowserElementParent.sys.mjs, line 21: TypeError: browser is null
+JavaScript error: resource://gre/actors/BrowserElementParent.sys.mjs, line 21: TypeError: browser is null
+1689634151982	Marionette	INFO	Stopped listening on port 59709
